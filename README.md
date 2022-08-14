@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# A Video sharing app
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a MERN stack project that uses youtube as a template;
 
 ## Available Scripts
 
